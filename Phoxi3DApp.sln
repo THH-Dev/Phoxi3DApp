@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.4.33110.190
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoxi3DApp", "Phoxi3DApp.csproj", "{2483C090-EFC4-404A-95BA-C6CC2341EFF8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWF", "..\TestWF\TestWF.csproj", "{723358DE-1FD9-4350-BFC2-0E5EEAED1F2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,18 +27,6 @@ Global
 		{2483C090-EFC4-404A-95BA-C6CC2341EFF8}.Release|x64.Build.0 = Release|x64
 		{2483C090-EFC4-404A-95BA-C6CC2341EFF8}.Release|x86.ActiveCfg = Release|x86
 		{2483C090-EFC4-404A-95BA-C6CC2341EFF8}.Release|x86.Build.0 = Release|x86
-		{723358DE-1FD9-4350-BFC2-0E5EEAED1F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{723358DE-1FD9-4350-BFC2-0E5EEAED1F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{723358DE-1FD9-4350-BFC2-0E5EEAED1F2B}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{723358DE-1FD9-4350-BFC2-0E5EEAED1F2B}.Debug|x64.Build.0 = Debug|Any CPU
-		{723358DE-1FD9-4350-BFC2-0E5EEAED1F2B}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{723358DE-1FD9-4350-BFC2-0E5EEAED1F2B}.Debug|x86.Build.0 = Debug|Any CPU
-		{723358DE-1FD9-4350-BFC2-0E5EEAED1F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{723358DE-1FD9-4350-BFC2-0E5EEAED1F2B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{723358DE-1FD9-4350-BFC2-0E5EEAED1F2B}.Release|x64.ActiveCfg = Release|Any CPU
-		{723358DE-1FD9-4350-BFC2-0E5EEAED1F2B}.Release|x64.Build.0 = Release|Any CPU
-		{723358DE-1FD9-4350-BFC2-0E5EEAED1F2B}.Release|x86.ActiveCfg = Release|Any CPU
-		{723358DE-1FD9-4350-BFC2-0E5EEAED1F2B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
